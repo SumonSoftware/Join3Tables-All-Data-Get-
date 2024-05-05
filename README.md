@@ -161,7 +161,7 @@ Distributed under the Apache License 2.0. See <a href="https://github.com/SumonS
 
 ## Authors
 
-**Sumon Islam** - *Android Software Developer* - <a href="https://github.com/SumonSoftware">MD YEAMIN</a> - *Learn with Ease*
+**Sumon Islam** - *Android Software Developer* - <a href="https://github.com/SumonSoftware">Sumon Islam</a> - *Learn with Ease*
 
 <h1 align="center">Thank You ❤️</h1>
 
