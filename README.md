@@ -51,6 +51,11 @@ CREATE TABLE UserTable (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 ```
+`
+## In `MySQL Database Table Create Images` <br>
+![Screenshot_30](https://github.com/SumonSoftware/Join3Tables-All-Data-Get-/assets/168503949/4964cdd4-77d3-44fd-a04e-cd261fc891d1)
+
+
 
 ## Step 3: In `BooksTable & AuthorsTable View for PHP Code` <br>
 
